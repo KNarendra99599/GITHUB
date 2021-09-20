@@ -15,3 +15,4 @@ echo
 #GET IP ADDRESS OF THE SYSTEM
 IP=$(ifconfig)
 echo $IP
+#Adited the details file
