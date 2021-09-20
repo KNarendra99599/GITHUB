@@ -16,3 +16,4 @@ echo
 IP=$(ifconfig)
 echo $IP
 #Adited the details file
+12345678
